@@ -1,5 +1,7 @@
 ### 如何使用？
 #### 部署Lucene服务器
+
+[![Join the chat at https://gitter.im/yonglehou/LuceneServer](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/yonglehou/LuceneServer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 编译LuceneServer项目，直接运行LuceneServer.exe即可，可以在LuceneServer.exe.config更改一些配置项。
 
 #### 全文检索相关
